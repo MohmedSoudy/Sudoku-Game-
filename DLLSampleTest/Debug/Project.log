@@ -1,0 +1,20 @@
+﻿Build started 12/28/2016 7:57:09 AM.
+     1>Project "G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Project.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\Soudy\AppData\Local\Temp\tmp030923a41cd94dbd8763229afa339c32.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+     1>main.asm(273): warning A6004: procedure argument or local not referenced : unsize
+     1>main.asm(300): warning A6004: procedure argument or local not referenced : ssize
+     1>main.asm(306): warning A6004: procedure argument or local not referenced : hInstance
+     1>main.asm(306): warning A6004: procedure argument or local not referenced : fdwReason
+     1>main.asm(306): warning A6004: procedure argument or local not referenced : lpReserved
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Debug\Project.dll" /NOLOGO /LIBPATH:C:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\\main.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO /DLL Debug\main.obj
+            Creating library G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Debug\Project.lib and object G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Debug\Project.exp
+         Project.vcxproj -> G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Debug\Project.dll
+     1>Done Building Project "G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSampleTest\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.31

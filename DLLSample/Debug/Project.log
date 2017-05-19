@@ -1,0 +1,15 @@
+﻿Build started 12/28/2016 7:52:30 AM.
+     1>Project "G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSample\Project.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\Soudy\AppData\Local\Temp\tmp6ed62a1120924c98b77108a6f7064907.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+     1>main.asm(35): error A2008: syntax error : size
+     1>main.asm(37): error A2006: undefined symbol : RandomNumber_Easy
+     1>main.asm(40): fatal error A1010: unmatched block nesting : Easy1
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
+     1>Done Building Project "G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\DLLSample\Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.18

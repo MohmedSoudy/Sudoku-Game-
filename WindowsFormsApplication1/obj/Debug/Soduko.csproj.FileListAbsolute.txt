@@ -1,0 +1,14 @@
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Soduko.csprojResolveAssemblyReference.cache
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Congratulations.resources
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\mohmed\Assembly\Sodouko project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Soduko.csproj.GenerateResource.Cache

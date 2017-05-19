@@ -1,0 +1,24 @@
+﻿Build started 12/28/2016 3:13:53 AM.
+     1>Project "G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\Assembly_Dlls\Project.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\Soudy\AppData\Local\Temp\tmp82f6ea034002418a99da749f213eac24.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm
+     1>main.asm(35): error A2008: syntax error : size
+     1>main.asm(44): error A2008: syntax error : size
+     1>main.asm(46): error A2006: undefined symbol : ssize
+     1>main.asm(46): error A2114: INVOKE argument type mismatch : argument : 7
+     1>main.asm(46): error A2006: undefined symbol : solved
+     1>main.asm(46): error A2114: INVOKE argument type mismatch : argument : 6
+     1>main.asm(46): error A2006: undefined symbol : Unsolved_Length
+     1>main.asm(46): error A2114: INVOKE argument type mismatch : argument : 5
+     1>main.asm(46): error A2006: undefined symbol : unsolved
+     1>main.asm(46): error A2114: INVOKE argument type mismatch : argument : 4
+     1>main.asm(49): fatal error A1010: unmatched block nesting : Medium_Level
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\Irvine" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
+     1>Done Building Project "G:\mohmed\Assembly\Sodouko project\Soduko Gui\WindowsFormsApplication1\WindowsFormsApplication1\Assembly_Dlls\Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.21

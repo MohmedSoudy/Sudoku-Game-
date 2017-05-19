@@ -1,0 +1,4 @@
+EXPORTS
+getEasy @6
+getMed @7
+getHard @8
